@@ -37,12 +37,13 @@ $ python manage.py createsuperuser
 ```
 
 That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command
+
 0.0.0.0:8080 - To make the app aviable to external user over port 8080
 
 ```bash
 $ python manage.py runserver 0.0.0.0:8080
 ```
 
-Once the server is hosted, head over to http://<IP-address>:8080/todos for the App.
+Once the server is hosted, head over to http://<<IP-address>>:8080/todos for the App.
 
 Cheers and Happy Coding :)
