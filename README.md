@@ -44,6 +44,6 @@ That was pretty simple, right? Now let's make the App live. We just need to star
 $ python manage.py runserver 0.0.0.0:8080
 ```
 
-Once the server is hosted, head over to http://<<IP-address>>:8080/todos for the App.
+Once the server is hosted, head over to http://{IP-address}:8080/todos for the App.
 
 Cheers and Happy Coding :)
